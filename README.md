@@ -21,7 +21,7 @@ This project focuses on predicting car prices based on various features using ma
 Table :
 ![image alt](https://github.com/irfanulkabirhira/Predicitng-Car-Price-with-Machine-Learning-/blob/d7878178d72bbfb427137c3fc96237b4cf049f59/Table.png)
 Visualise Decision Tree :  
-  ![image alt]( )
+  ![image alt](https://github.com/irfanulkabirhira/Predicitng-Car-Price-with-Machine-Learning-/blob/9d1b6448667811261c863ab0e8d4d1edcd054606/Visualise%20Decision%20Tree.png)
 Horsepower VS Price
   ![image alt](https://github.com/irfanulkabirhira/Predicitng-Car-Price-with-Machine-Learning-/blob/defa0598c9c3094810f356bc21202737c6570739/Horsepower%20Vs%20Price.png)
 EDA :
