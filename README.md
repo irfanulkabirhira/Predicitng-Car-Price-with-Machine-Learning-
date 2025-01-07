@@ -23,7 +23,7 @@ Table :
 Visualise Decision Tree :  
   ![image alt]( )
 Horsepower VS Price
-  ![image alt]( )
+  ![image alt](https://github.com/irfanulkabirhira/Predicitng-Car-Price-with-Machine-Learning-/blob/defa0598c9c3094810f356bc21202737c6570739/Horsepower%20Vs%20Price.png)
 EDA :
  ![image alt]() 
 
