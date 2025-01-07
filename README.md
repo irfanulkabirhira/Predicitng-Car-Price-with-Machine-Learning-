@@ -18,8 +18,14 @@ This project focuses on predicting car prices based on various features using ma
 
 6. Model evaluation:
 - Evaluate models and Summarizing their findings. This should include a clear explanation of the model's performance and any insights gained from the analysis.
-  Table :
-  ![image alt](https://github.com/irfanulkabirhira/Predicitng-Car-Price-with-Machine-Learning-/blob/d7878178d72bbfb427137c3fc96237b4cf049f59/Table.png)
+Table :
+![image alt](https://github.com/irfanulkabirhira/Predicitng-Car-Price-with-Machine-Learning-/blob/d7878178d72bbfb427137c3fc96237b4cf049f59/Table.png)
+Visualise Decision Tree :  
+  ![image alt]( )
+Horsepower VS Price
+  ![image alt]( )
+EDA :
+ ![image alt]() 
 
 
   
