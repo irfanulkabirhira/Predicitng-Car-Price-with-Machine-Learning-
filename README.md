@@ -18,5 +18,8 @@ This project focuses on predicting car prices based on various features using ma
 
 6. Model evaluation:
 - Evaluate models and Summarizing their findings. This should include a clear explanation of the model's performance and any insights gained from the analysis.
+  Table :
+  ![image alt]( )
+
 
   
